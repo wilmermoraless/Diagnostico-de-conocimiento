@@ -1,0 +1,11 @@
+Flask
+frozendict
+schema
+Werkzeug
+click
+colorama
+blinker
+itsdangerous
+Jinja2
+MarkupSafe
+experta
